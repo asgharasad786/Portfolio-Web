@@ -1,0 +1,124 @@
+[   {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/50/c-plus-plus-logo.png"
+    },
+    {
+        "name": "OOP",
+        "icon": "https://i.postimg.cc/25zWd7PC/images-removebg-preview-1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/50/python.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/50/pandas.png"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/color/50/numpy.png"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://i.postimg.cc/kgkfMKS9/Matplotlib-3.png"
+    },
+    {
+        "name": "Seaborn",
+        "icon": "https://i.postimg.cc/RZRc3YNM/seaborn-1.png"
+    },
+    {
+        "name": "Plotly",
+        "icon": "https://i.postimg.cc/G2BY5hz2/Ploty-1.png"
+    },
+    {
+        "name": "ScikitLearn",
+        "icon": "https://i.postimg.cc/MZVfMLFh/scikit-learn-1.png"
+    },
+    {
+        "name": "TensorFlow",
+        "icon": "https://img.icons8.com/color/50/tensorflow.png"
+    },
+    {
+        "name": "Keras",
+        "icon": "https://i.postimg.cc/zDxZjz6W/icons8-keras-50.png"
+    },
+    {
+        "name": "Pytorch",
+        "icon": "https://img.icons8.com/fluency/48/pytorch.png"
+    },
+    {
+        "name": "Streamlit",
+        "icon": "https://i.postimg.cc/R0WyXwrn/Streamlit-1.png"
+    },
+    {
+        "name": "ML",
+        "icon": "https://i.postimg.cc/Kjw0HHnX/icons8-machine-learning-53.png"
+    },
+    {
+        "name": "DL",
+        "icon": "https://i.postimg.cc/zBLtFNgw/icons8-neural-network-50-1.png"
+    }, 
+    {
+        "name": "DataScience",
+        "icon": "https://img.icons8.com/stickers/50/positive-dynamic.png"
+    }, 
+    {
+        "name": "LLM",
+        "icon": "https://i.postimg.cc/1RYbLWHY/download-removebg-preview-3-2.png"
+    }, 
+    {
+        "name": "AI",
+        "icon": "https://img.icons8.com/office/50/robot-2.png"
+    }, 
+    
+    {
+        "name": "MS Excel",
+        "icon": "https://img.icons8.com/color/50/microsoft-excel-2019--v1.png"
+    }, 
+    {
+        "name": "MS Word",
+        "icon": "https://img.icons8.com/color/50/microsoft-word-2019--v2.png"
+    }, 
+    {
+        "name": "PowerPoint",
+        "icon": "https://img.icons8.com/color/50/microsoft-powerpoint-2019--v1.png"
+    }, 
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/50/power-bi.png"
+    }, 
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/nolan/50/sql.png"
+    }, 
+    {
+        "name": "Analytics",
+        "icon": "https://img.icons8.com/color/50/vertical-timeline.png"
+    }, 
+    
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "Java Script",
+        "icon": "https://img.icons8.com/nolan/50/node-js.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },   
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+  
+]

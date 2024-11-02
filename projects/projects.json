@@ -1,0 +1,183 @@
+[{
+  "name": "Chatbot",
+  "desc": "This project is currently under development and will be showcased here soon.",
+  "image": "chatbot",
+  "category": "mern",
+  "links": {
+    "view": "This project is currently under development and will be showcased here soon.",
+    "code": "This project is currently under development and will be showcased here soon."
+  }
+},
+  {
+    "name": "Pending",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "android",
+    "links": {
+      "view": "1",
+      "code": "1"
+    }
+  },
+  {
+    "name": "Pending",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "android",
+    "links": {
+      "view": "1",
+      "code": "1"
+    }
+  },
+  {
+    "name": "Pending",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "android",
+    "links": {
+      "view": "1",
+      "code": "1"
+    }
+  },
+  {
+    "name": "Pending",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "android",
+    "links": {
+      "view": "1",
+      "code": "1"
+    }
+  },
+
+  
+  {
+    "name": "Vedio To Text",
+    "desc": "This project is currently under development and will be showcased here soon.",
+    "image": "vediotext",
+    "category": "mern",
+    "links": {
+      "view": "This project is currently under development and will be showcased here soon.",
+      "code": "This project is currently under development and will be showcased here soon."
+    }
+  },
+  {
+    "name": "Text To Vedio",
+    "desc": "This project is currently under development and will be showcased here soon.",
+    "image": "textvedio",
+    "category": "mern",
+    "links": {
+      "view": "This project is currently under development and will be showcased here soon.",
+      "code": "This project is currently under development and will be showcased here soon."
+    }
+  },
+  {
+    "name": "Cat vs Dog Classification",
+    "desc": "This project is currently under development and will be showcased here soon..",
+    "image": "catdog",
+    "category": "mern",
+    "links": {
+      "view": "This project is currently under development and will be showcased here soon.",
+      "code": "This project is currently under development and will be showcased here soon."
+    }
+  },
+  {
+    "name": "Tumor Classification",
+    "desc": "This project is currently under development and will be showcased here soon.",
+    "image": "tumor",
+    "category": "lamp",
+    "links": {
+      "view": "This project is currently under development and will be showcased here soon.",
+      "code": "This project is currently under development and will be showcased here soon."
+    }
+  },
+  {
+    "name": "Image Description with AI ",
+    "desc": "This project is currently under development and will be showcased here soon.",
+    "image": "picdes",
+    "category": "basicweb",
+    "links": {
+      "view": "This project is currently under development and will be showcased here soon.",
+      "code": "This project is currently under development and will be showcased here soon."
+    }
+  },
+  {
+    "name": "Dummy",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "mern",
+    "links": {
+      "view": "1",
+      "code": "1"
+    }
+  },
+  {
+    "name": "Dummy",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "mern",
+    "links": {
+      "view": "h1/",
+      "code": "1"
+    }
+  },
+  {
+    "name": "Dummy",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "mern",
+    "links": {
+      "view": "https:/1",
+      "code": "h1"
+    }
+  },
+  {
+    "name": "Dummy",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "basicweb",
+    "links": {
+      "view": "#1",
+      "code": "ht1"
+    }
+  },
+  {
+    "name": "Dummy",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "basicweb",
+    "links": {
+      "view": "h1",
+      "code": "1v"
+    }
+  },
+  {
+    "name": "Dummy",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "android",
+    "links": {
+      "view": "ht1",
+      "code": "h1"
+    }
+  },
+  {
+    "name": "Dummy",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "lamp",
+    "links": {
+      "view": "1",
+      "code": "h1k"
+    }
+  },
+  {
+    "name": "Dummy",
+    "desc": "This project is currently under development and will be showcased here soon.",
+    "image": "dummy",
+    "category": "basicweb",
+    "links": {
+      "view": "1",
+      "code": "1"
+    }
+  }
+]
