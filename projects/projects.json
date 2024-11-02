@@ -1,7 +1,7 @@
 [{
   "name": "Chatbot",
   "desc": "This project is currently under development and will be showcased here soon.",
-  "image": "chat",
+  "image": "chats",
   "category": "mern",
   "links": {
     "view": "https://chatwithanypdf.streamlit.app",
