@@ -14,7 +14,7 @@
     "image": "audiotext",
     "category": "AI",
     "links": {
-      "view": "1",
+      "view": "https://huggingface.co/spaces/asgharasad786/Audio_Text",
       "code": "https://github.com/asgharasad786/Audio-to-Text.git"
     }
   },
