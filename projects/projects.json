@@ -9,48 +9,6 @@
   }
 },
   {
-    "name": "Pending",
-    "desc": "This project is currently under development and will be showcased here soon",
-    "image": "dummy",
-    "category": "android",
-    "links": {
-      "view": "1",
-      "code": "1"
-    }
-  },
-  {
-    "name": "Pending",
-    "desc": "This project is currently under development and will be showcased here soon",
-    "image": "dummy",
-    "category": "android",
-    "links": {
-      "view": "1",
-      "code": "1"
-    }
-  },
-  {
-    "name": "Pending",
-    "desc": "This project is currently under development and will be showcased here soon",
-    "image": "dummy",
-    "category": "android",
-    "links": {
-      "view": "1",
-      "code": "1"
-    }
-  },
-  {
-    "name": "Pending",
-    "desc": "This project is currently under development and will be showcased here soon",
-    "image": "dummy",
-    "category": "android",
-    "links": {
-      "view": "1",
-      "code": "1"
-    }
-  },
-
-  
-  {
     "name": "Audio To Text",
     "desc": "This project is currently under development and will be showcased here soon.",
     "image": "audiotext",
@@ -68,6 +26,46 @@
     "links": {
       "view": "This project is currently under development and will be showcased here soon.",
       "code": "This project is currently under development and will be showcased here soon."
+    }
+  },
+  {
+    "name": "Pending",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "android",
+    "links": {
+      "view": "1",
+      "code": "1"
+    }
+  },
+  {
+    "name": "Pending",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "android",
+    "links": {
+      "view": "1",
+      "code": "1"
+    }
+  },
+  {
+    "name": "Pending",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "android",
+    "links": {
+      "view": "1",
+      "code": "1"
+    }
+  },
+  {
+    "name": "Pending",
+    "desc": "This project is currently under development and will be showcased here soon",
+    "image": "dummy",
+    "category": "android",
+    "links": {
+      "view": "1",
+      "code": "1"
     }
   },
   {
