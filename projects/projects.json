@@ -51,13 +51,13 @@
 
   
   {
-    "name": "Vedio To Text",
+    "name": "Audio To Text",
     "desc": "This project is currently under development and will be showcased here soon.",
-    "image": "vediotext",
-    "category": "mern",
+    "image": "audiotext",
+    "category": "AI",
     "links": {
-      "view": "This project is currently under development and will be showcased here soon.",
-      "code": "This project is currently under development and will be showcased here soon."
+      "view": "1",
+      "code": "https://github.com/asgharasad786/Audio-to-Text.git"
     }
   },
   {
