@@ -19,16 +19,6 @@
     }
   },
   {
-    "name": "Iris Flower Classifier",
-    "desc": "This project is classify the type of iris flower",
-    "image": "iris",
-    "category": "android",
-    "links": {
-      "view": "https://irisclassifier1.streamlit.app/",
-      "code": "https://github.com/asgharasad786/Iris_flower_Classifier.git"
-    }
-  },
-  {
     "name": "Pending",
     "desc": "This project is currently under development and will be showcased here soon",
     "image": "dummy",
