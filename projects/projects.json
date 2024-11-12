@@ -10,12 +10,22 @@
 },
   {
     "name": "Audio To Text",
-    "desc": "This project is currently under development and will be showcased here soon.",
+    "desc": "This project made by using huggingface audio to text converter model.",
     "image": "audiotext",
     "category": "AI",
     "links": {
       "view": "https://huggingface.co/spaces/asgharasad786/Audio_Text",
       "code": "https://github.com/asgharasad786/Audio-to-Text.git"
+    }
+  },
+    {
+    "name": "Iris Flower Classifier",
+    "desc": "This project is classify the type of iris flower",
+    "image": "iris",
+    "category": "android",
+    "links": {
+      "view": "https://irisclassifier1.streamlit.app/",
+      "code": "https://github.com/asgharasad786/Iris_flower_Classifier.git"
     }
   },
   {
