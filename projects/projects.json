@@ -19,16 +19,6 @@
     }
   },
   {
-    "name": "Text To Vedio",
-    "desc": "This project is currently under development and will be showcased here soon.",
-    "image": "textvedio",
-    "category": "mern",
-    "links": {
-      "view": "This project is currently under development and will be showcased here soon.",
-      "code": "This project is currently under development and will be showcased here soon."
-    }
-  },
-     {
     "name": "Iris Flower Classifier",
     "desc": "This project is classify the type of iris flower",
     "image": "iris",
