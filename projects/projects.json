@@ -71,13 +71,13 @@
     }
   },
   {
-    "name": "Cat vs Dog Classification",
-    "desc": "This project is currently under development and will be showcased here soon..",
-    "image": "catdog",
+    "name": "Expense Tracker App",
+    "desc": "This project is currently under development and will be improve soon..",
+    "image": "expense",
     "category": "mern",
     "links": {
-      "view": "This project is currently under development and will be showcased here soon.",
-      "code": "This project is currently under development and will be showcased here soon."
+      "view": "https://expencetracker-1.streamlit.app/",
+      "code": "https://github.com/asgharasad786/expence_tracker.git"
     }
   },
   {
