@@ -81,13 +81,13 @@
     }
   },
   {
-    "name": "Tumor Classification",
-    "desc": "This project is currently under development and will be showcased here soon.",
-    "image": "tumor",
-    "category": "lamp",
+    "name": "MCQs Generator App",
+    "desc": "This project is currently under development and will be improve soon.",
+    "image": "mcq",
+    "category": "LLM",
     "links": {
-      "view": "This project is currently under development and will be showcased here soon.",
-      "code": "This project is currently under development and will be showcased here soon."
+      "view": "https://asgharasad786.pythonanywhere.com/",
+      "code": "https://github.com/asgharasad786/MCQs_Generator.git"
     }
   },
   {
